@@ -1,6 +1,3 @@
-Creating a README file for a project involving data visualization of credit union data using Streamlit and a PostgreSQL database involves detailing the project setup, dependencies, database configuration, how to run the application, and possibly some background on the project's purpose and features. Below is an example structure and content for such a README file:
-
----
 
 # Credit Union Data Visualization with Streamlit and PostgreSQL
 
